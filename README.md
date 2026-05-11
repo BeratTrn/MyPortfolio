@@ -5,7 +5,7 @@
 
   **A modern, highly interactive, and responsive portfolio web application.**
 
-  🌍 **[Live Demo: beratturandev.netlify.app](https://beratturandev.netlify.app/)** 🌍
+  🌍 **[beratturandev.netlify.app](https://beratturandev.netlify.app/)** 🌍
 
   <br />
 
