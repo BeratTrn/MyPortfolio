@@ -1,14 +1,19 @@
 <div align="center">
-  <img src="public/png/nav-avatar.png" alt="Logo" width="120" height="120">
+<img src="public/png/nav-avatar.png" alt="Logo" width="120" height="120">
 
   # Berat Turan - Personal Portfolio
 
   **A modern, highly interactive, and responsive portfolio web application.**
 
+  🌍 **[Live Demo: beratturandev.netlify.app](https://beratturandev.netlify.app/)** 🌍
+
+  <br />
+
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
   [![TanStack Router](https://img.shields.io/badge/TanStack%20Router-FF4154?style=for-the-badge&logo=react&logoColor=white)](https://tanstack.com/router)
+  [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://beratturandev.netlify.app/)
 </div>
 
 <br />
@@ -16,6 +21,8 @@
 ## 🌟 Overview
 
 This is my personal portfolio website, designed to showcase my projects, skills, and experience as a **Mobile & Full-Stack Developer**. Built with a focus on **performance**, **clean architecture**, and **user experience (UX/UI)**, the project features dynamic theming, internationalization, and smooth micro-animations.
+
+The application is fully deployed and continuously integrated via Netlify CI/CD pipeline.
 
 ## ✨ Features
 
@@ -55,9 +62,9 @@ public/
 └── svg/               # Vector graphics
 ```
 
-## 🚀 Getting Started
+## 💻 Local Development
 
-To get a local copy up and running, follow these simple steps.
+While the project is live, you can still clone and run it locally to inspect the code architecture.
 
 ### Prerequisites
 
@@ -87,7 +94,7 @@ To get a local copy up and running, follow these simple steps.
    ```
 
 4. **Open your browser:**
-   Navigate to `http://localhost:3000` or the port specified in your terminal.
+   Navigate to http://localhost:3000 (or the port specified in your terminal) to view the local build.
 
 ## 💡 Architecture & Design Decisions
 
